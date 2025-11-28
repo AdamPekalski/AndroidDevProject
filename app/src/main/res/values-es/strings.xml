@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="app_name">MoveMate</string>
+
+        <string name="no_workouts_yet">
+        Aún no hay entrenamientos. Pulsa + para añadir uno.
+        </string>
+
+        <string name="add_workout">Agregar entrenamiento</string>
+        <string name="edit_workout">Editar entrenamiento</string>
+
+        <string name="field_type">Tipo (p.ej. Caminar, Correr)</string>
+        <string name="field_duration">Duración (minutos)</string>
+        <string name="field_distance">Distancia (km, opcional)</string>
+        <string name="field_notes">Notas</string>
+        <string name="field_effort">Esfuerzo: %1$d / 5</string>
+
+        <string name="action_cancel">Cancelar</string>
+        <string name="action_save">Guardar</string>
+
+        <string name="progress_title">Progreso</string>
+        <string name="progress_summary">Tu actividad total:</string>
+        <string name="progress_total_minutes">Minutos totales: %1$d</string>
+        <string name="progress_total_calories">Calorías totales: %1$d kcal</string>
+
+        <string name="settings_title">Ajustes</string>
+        <string name="settings_language_hint">
+        El idioma depende de la configuración del dispositivo (Inglés/Español).
+        </string>
+
+        <!-- Sensor feature -->
+        <string name="sensor_steps_label">Pasos en esta sesión: %1$d</string>
+        <string name="sensor_use_steps_button">Usar pasos para sugerir duración</string>
+
+        <!-- Snackbar / undo -->
+        <string name="snackbar_workout_deleted">Entrenamiento eliminado</string>
+        <string name="action_undo">Deshacer</string>
+</resources>
